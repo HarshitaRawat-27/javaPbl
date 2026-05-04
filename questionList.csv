@@ -1,0 +1,11 @@
+Question,a,b,c,d,correct answer
+What is Java?,Operating System,Programming Language,Database,Browser,Programming Language
+Which keyword is used to define a class in Java?,function,class,define,struct,class
+Which method is the entry point of a Java program?,start(),run(),main(),init(),main()
+Java is platform ________?,dependent,independent,specific,limited,independent
+Which keyword is used for inheritance?,implement,extends,Implement,Extends,extends
+Which concept hides internal details?,Inheritance,Encapsulation,Polymorphism,Abstraction,Encapsulation
+Which block always executes?,try,catch,finally,throw,finally
+Which keyword is used to throw an exception?,throw,throws,catch,try,throw
+Which type of database does JDBC use?,MySQL,NoSQL,GraphQL,NewSQL,MySQL
+Which collection is dynamic in size?,Array,ArrayList,String,int,ArrayList
